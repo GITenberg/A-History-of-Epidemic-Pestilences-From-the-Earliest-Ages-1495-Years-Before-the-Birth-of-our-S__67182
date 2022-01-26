@@ -1,11 +1,16 @@
 _repo: A-History-of-Epidemic-Pestilences-From-the-Earliest-Ages-1495-Years-Before-the-Birth-of-our-S__67182
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67182-h/images/cover.jpg
 creator:
   author:
     agent_name: Bascome, Edward
     gutenberg_agent_id: '54146'
     url: http://www.gutenberg.org/2009/agents/54146
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67182#A-History-of-Epidemic-Pestilences-From-the-Earliest-Ages-1495-Years-Before-the-Birth-of-our-S_
 gutenberg_issued: '2022-01-16'
 identifiers:
   gutenberg: '67182'
